@@ -16,6 +16,6 @@
 		"elvish.js"
 	],
 	"url": "https://github.com/ennoia6/elvish-3d-dice",
-	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
-	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/raw/main/ApertureScienceWCDice.zip"
+	"manifest": "https://raw.githubusercontent.com/ennoia6/elvish-3d-dice/master/module.json",
+	"download": "https://github.com/ennoia6/elvish-3d-dice/blob/master/elvish-3d-dice.zip"
 }
