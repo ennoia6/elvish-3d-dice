@@ -1,0 +1,21 @@
+{
+	"name": "q-workshop-elvish-set",
+	"title": "Dice So Nice - Q WORKSHOP Elvish Dice Set",
+	"description": "Adds a set of Q WORKSHOP Elvish 3D Dice to Dice-So-Nice ",
+	"version": "0.0.1",
+	"minimumCoreVersion" : "0.7.2",
+	"compatibleCoreVersion" : "0.8.9",
+	"author": "blazej.baleczny@q-workshop.com",
+	"dependencies": [
+		{
+			"type": "module",
+			"name": "dice-so-nice"
+		}
+	],
+	"scripts": [
+		"elvish.js"
+	],
+	"url": "https://github.com/ennoia6/elvish-3d-dice",
+	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
+	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/raw/main/ApertureScienceWCDice.zip"
+}
